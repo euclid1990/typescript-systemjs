@@ -1,0 +1,7 @@
+*
+components/*
+service/*
+directives/*
+pipes/*
+libs/*
+!.gitignore
